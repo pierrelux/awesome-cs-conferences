@@ -15,4 +15,4 @@ Conference | Paper submission deadline | Conference location and date
 [KDD](http://www.kdd.org/kdd2017/) | Feb 17 2017 | Aug 13 2017, Halifax, Nova Scotia, Canada
 [ICCV](http://iccv2017.thecvf.com/) | Mar 17 2017 | Oct 22 2017, Venice, Italy
 [ICLR](http://www.iclr.cc/doku.php?id=iclr2017:callforpapers) | Dec 2 2016 | April 24 2017, Palais des Congrès Neptune, Toulon, France
-
+[IJCAI](http://ijcai-17.org/) |  February 19 2017 |  August 19-25 2017, Melbourne, Australia
